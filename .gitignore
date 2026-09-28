@@ -20,3 +20,6 @@ dist/
 Thumbs.db
 .vscode/
 .idea/
+
+# Original copyrighted source material
+*.pdf
