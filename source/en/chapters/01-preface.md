@@ -27,18 +27,9 @@ In general, a company is discussed and introduced in the year of its formation. 
 
 ### History of the GPU
 
-| Steps to Invention — Book 1 | Eras and Environment — Book 2 | New Developments — Book 3 |
-|---|---|---|
-| 1. Preface | 1. Preface | 1. Preface |
-| 2. History of the GPU | 2. Race to build the first GPU | 2. Second Era of GPUs (2001–2006) |
-| 3. 1980–1990 Graphics Controllers on Other Platforms | 3. GPU Functions | 3. Third to Fifth Era of GPUs |
-| 4. 1980–1989 Graphics Controllers on PCs | 4. Major Era of GPUs | 4. Mobile GPUs |
-| 5. 1990–1995 Graphics Controllers on PCs | 5. First Era of GPUs | 5. Game Console GPUs |
-| 6. 1990–1999 Graphics Controllers on Other Platforms | 6. GPU Environment—Hardware | 6. Compute GPUs |
-| 7. 1996–1999 Graphics Controller on PCs | 7. Application Program Interface (API) | 7. Open GPUs |
-| 8. What is a GPU | 8. GPU Environment—Software Extensions | 8. Sixth Era of GPUs |
+![The History of the GPU - Steps to Invention](../images/history-of-the-gpu-steps-to-invention.jpg)
 
-### The History of the GPU — Steps to Invention
+*The History of the GPU - Steps to Invention*
 
 I mark the GPU's introduction as the first fully integrated single chip with hardware geometry processing capabilities—transform and lighting. Nvidia gets that honor on the PC by introducing their GeForce 256 based on the NV10 chip in October 1999. However, Silicon Graphics Inc. (SGI) introduced an integrated GPU in the Nintendo 64 in 1996, and ArtX developed an integrated GPU for the PC a month after Nvidia. As you will learn, Nvidia did not introduce the concept of a GPU, nor did they develop the first hardware implementation of transform and lighting.
 
