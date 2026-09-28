@@ -1,0 +1,22 @@
+# Local source and generated files
+*.txt
+*.html
+*.docx
+*.epub
+*.mobi
+
+# Temporary extraction and OCR files
+extracted/
+ocr/
+tmp/
+*.ocr.txt
+
+# Generated exports
+build/
+dist/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
