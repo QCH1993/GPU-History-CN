@@ -1,8 +1,9 @@
 # 前言
 
-> 原书：*Foreword*  
+> 原文：[Foreword](../source/en/chapters/00-foreword.md)  
 > 原书页码：v–vii  
-> PDF 页码：5–7
+> PDF 页码：5–7  
+> 原始章节 PDF：[`00-foreword.pdf`](../source/en/raw/00-foreword.pdf)
 
 历史无论是在学校里学习、作为纪录片和书籍的主题，还是通过口耳相传、代代传承，往往都会引发强烈的反应。无论来源如何，任何一段历史都不可能涵盖某个人经历过的每一件事。我的记忆每天都在证明这一点。
 
